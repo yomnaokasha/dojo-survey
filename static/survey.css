@@ -1,0 +1,17 @@
+.body {
+  padding-bottom: 20px;
+}
+
+.input {
+  padding-right: 20px;
+}
+
+.comment {
+  display: flex;
+  padding-bottom: 20px;
+}
+
+.button {
+  background-color: blue;
+  color: azure;
+}
